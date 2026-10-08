@@ -1,0 +1,3 @@
+app
+*.o
+tests/actual_output.txt
